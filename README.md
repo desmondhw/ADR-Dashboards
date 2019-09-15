@@ -3,7 +3,7 @@
 ### Use Case 1:
 Monitoring trends of ADR related diagnosis codes
 
-![Tableau ADR Dashboard Usecase 1](https://user-images.githubusercontent.com/34176396/63610236-8af89e80-c60b-11e9-83f4-a96b35f0a7c8.png)
+![Tableau ADR Dashboard Usecase 1](https://user-images.githubusercontent.com/34176396/64919541-d18e8280-d7de-11e9-93dc-f95883e9c8be.png)
 
 
 ### Use Case 2:
